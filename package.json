@@ -32,6 +32,10 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "engines": {
+    "node": "16.14.2",
+    "npm": "8.5.0"
+  },
   "devDependencies": {
     "awesome-typescript-loader": "^5.2.1",
     "css-loader": "^6.5.1",
